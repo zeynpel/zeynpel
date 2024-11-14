@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Design and Implementation Of a Machine Learning Educational Product To Identify An Individual and Smart Mirror
+- 🌱 I’m currently learning Phyton, C++ and Java 
+
+
 <!--
 **zeynpel/zeynpel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
